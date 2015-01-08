@@ -1,6 +1,18 @@
 Day 3 - Classes
 ===============
 
+# MINISWAN -- Matz is the creator of Ruby
+
+* Matz
+* Is
+* Nice
+* So
+* We
+* Are
+* Nice
+
+
+
 ### Goals
 
 1. Scope
