@@ -12,6 +12,7 @@ class User
   def full_name
     [last_name, first_name].join(", ")
   end
+
 end
 
 # data = {first_name: "jesse",
@@ -49,5 +50,7 @@ end
 
 print_user_info jwo
 
+p jwo
 
-puts "jwo == awo.spouse #{jwo == awo.spouse}"
+
+# puts "jwo == awo.spouse #{jwo == awo.spouse}"
