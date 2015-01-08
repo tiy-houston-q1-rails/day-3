@@ -30,8 +30,9 @@ class Person
     @first_name = first_name
     @last_name = last_name
   end
+  
   def full_name
-    [first_name, last_name].join(" ")
+    [@first_name, @last_name].join(" ")
   end
 end
 
@@ -39,7 +40,7 @@ jwo = Person.new("jesse", "wolgamott")
 jwo.full_name
 => "jesse wolgamott"
 ```
-  
+
 Assignment
 ----------
 
