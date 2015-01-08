@@ -3,7 +3,6 @@ Day 3 - Classes
 
 ### Goals
 
-1. Pry
 1. Scope
 1. Classes
 1. Inheritance
